@@ -1,1 +1,2 @@
-abcd
+day 1
+we are in task 3. we started the class.
