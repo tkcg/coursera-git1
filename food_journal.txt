@@ -3,3 +3,9 @@ coffee
 
 day 2
 mangoes
+
+day 3
+vanilla
+
+day 4
+dawali is near!
