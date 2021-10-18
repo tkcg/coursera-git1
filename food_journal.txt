@@ -1,2 +1,5 @@
 day 1
 coffee
+
+day 2
+mangoes
